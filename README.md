@@ -1,7 +1,7 @@
 # RGFTransport
 
 ## Description
-The non-equilibrium Green's function (NEGF) method is widely used among electronic structure codes to calculate electron transport through a device bridging a number of 
+The non-equilibrium Green's function (NEGF) method is widely used among electronic structure codes to calculate electron transport through a device bridging metallic electrodes.
 
 ## Dependencies
 - Armadillo Linear Algebra Library [http://arma.sourceforge.net]
